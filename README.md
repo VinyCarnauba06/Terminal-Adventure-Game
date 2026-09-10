@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/99dcc422-582d-408e-9a6e-958b40493cc8
+
 # 🎮 Jogo da Vida — Terminal Adventure Game
 
 🇧🇷 **Português** · [🇺🇸 English](README.en.md)
