@@ -12,7 +12,8 @@ after the first four chapters, using only **variables, control flow and loops**.
 
 > The in-game text is in Brazilian Portuguese.
 
-![Demo](assets/GIF.gif)
+<!-- DEMO: drag the .mp4 file here when editing this README on GitHub.
+     GitHub uploads the video and generates a user-attachments link that plays inline. -->
 
 ---
 
@@ -76,8 +77,6 @@ Enter your name and age, then pick options by their number. The game prints your
 ```text
 .
 ├── terminal_game.py   # the game
-├── assets/
-│   └── GIF.gif         # gameplay demo
 ├── README.md           # Portuguese (default)
 └── README.en.md        # this file (English)
 ```

@@ -10,7 +10,8 @@ comer, como ir para a escola, o que fazer no intervalo) altera três atributos �
 Projeto do **Checkpoint Project** do curso [*The Legend of Python* — Codédex](https://www.codedex.io/),
 feito após os quatro primeiros capítulos, usando apenas **variáveis, fluxo de controle e loops**.
 
-![Demonstração](assets/GIF.gif)
+<!-- DEMO: arraste o arquivo .mp4 para cá ao editar este README no GitHub.
+     O GitHub sobe o vídeo e gera um link user-attachments que toca inline. -->
 
 ---
 
@@ -74,8 +75,6 @@ O jogo mostra o status (`Energia | Fome | Dinheiro`) ao fim de cada cena.
 ```text
 .
 ├── terminal_game.py   # o jogo
-├── assets/
-│   └── GIF.gif         # demonstração de uma partida
 ├── README.md           # este arquivo (PT-BR)
 └── README.en.md        # versão em inglês
 ```
