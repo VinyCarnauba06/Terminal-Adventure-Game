@@ -1,5 +1,7 @@
 # 🎮 Jogo da Vida — Terminal Adventure Game
 
+🇧🇷 **Português** · [🇺🇸 English](README.en.md)
+
 Um jogo de aventura de texto rodado no terminal, no estilo **"Day in the Life"**: você
 acompanha um dia na vida de um personagem e cada escolha (a que horas acordar, o que
 comer, como ir para a escola, o que fazer no intervalo) altera três atributos —
@@ -7,6 +9,8 @@ comer, como ir para a escola, o que fazer no intervalo) altera três atributos �
 
 Projeto do **Checkpoint Project** do curso [*The Legend of Python* — Codédex](https://www.codedex.io/),
 feito após os quatro primeiros capítulos, usando apenas **variáveis, fluxo de controle e loops**.
+
+![Demonstração](assets/GIF.gif)
 
 ---
 
@@ -28,7 +32,7 @@ O jogo mostra o status (`Energia | Fome | Dinheiro`) ao fim de cada cena.
 ## 🗺️ Estrutura da aventura
 
 | Cena | Situação | Escolhas | Impacto |
-|------|----------|----------|---------|
+| ---- | -------- | -------- | ------- |
 | **1 — Acordar** | O despertador toca | 07h30 / 09h00 / 11h00 | Define a `situacao` do dia (`cedo`, `levemente_atrasado`, `atrasado`) e mexe em energia/fome |
 | **2 — Café da manhã** | Cozinha, tempo depende de quando acordou | Cardápio muda conforme a `situacao` (3 opções cada, ou 2 se estiver atrasado) | Reduz fome, ajusta energia e, se atrasado, gasta dinheiro |
 | **3 — Ir para a escola** | Escolha do transporte | Ônibus (R$5) / Bicicleta / A pé | Gasta energia e dinheiro; combinado com a `situacao`, decide se `chegou_no_horario` |
@@ -67,8 +71,11 @@ O jogo mostra o status (`Energia | Fome | Dinheiro`) ao fim de cada cena.
 
 ## 📂 Arquivos
 
-```
+```text
 .
 ├── terminal_game.py   # o jogo
-└── README.md
+├── assets/
+│   └── GIF.gif         # demonstração de uma partida
+├── README.md           # este arquivo (PT-BR)
+└── README.en.md        # versão em inglês
 ```

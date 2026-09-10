@@ -233,3 +233,7 @@ elif not chegou_no_horario:
     print("Começou mal e não recuperou. Amanhã é outro dia.")
 else:
     print("Você sobreviveu ao dia, mas de raspão.")
+
+
+print("Fim do jogo.")
+sys.exit()

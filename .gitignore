@@ -1,0 +1,21 @@
+# Config de linter local (tooling do editor)
+.markdownlint.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Ferramentas
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Editores / SO
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
