@@ -1,8 +1,4 @@
 
-
-
-
-
 # 🎮 Jogo da Vida — Terminal Adventure Game
 
 🇧🇷 **Português** · [🇺🇸 English](README.en.md)
@@ -15,8 +11,7 @@ comer, como ir para a escola, o que fazer no intervalo) altera três atributos �
 Projeto do **Checkpoint Project** do curso [*The Legend of Python* — Codédex](https://www.codedex.io/),
 feito após os quatro primeiros capítulos, usando apenas **variáveis, fluxo de controle e loops**.
 
-<!-- DEMO: arraste o arquivo .mp4 para cá ao editar este README no GitHub.
-     O GitHub sobe o vídeo e gera um link user-attachments que toca inline. -->
+https://github.com/user-attachments/assets/3ca44fa7-83c8-4fae-a241-892ee31003a6
 
 ---
 
